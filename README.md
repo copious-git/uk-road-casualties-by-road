@@ -1,5 +1,7 @@
 # UK motorcyclist and cyclist casualties by road (STATS19, 2025)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22165465.svg)](https://doi.org/10.5281/zenodo.22165465)
+
 Motorcyclist and pedal cyclist casualties on every **numbered road** in Great Britain, derived from the
 Department for Transport's STATS19 road casualty open data, 2025 final release.
 
@@ -53,3 +55,12 @@ This derived dataset is released under the same terms.
 - Interactive tables and per-force-area breakdown: https://bikers.co.uk/data/dangerous-roads
 - All 44 police force areas: https://bikers.co.uk/data/dangerous-roads/regions
 - Cyclist-specific analysis: https://bikers.co.uk/data/dangerous-roads/cyclists
+
+## Citing this dataset
+
+Cite the concept DOI, which always resolves to the latest version:
+
+> Bikers.co.uk (2026). *UK motorcyclist and cyclist casualties by road (STATS19, 2025).*
+> Zenodo. https://doi.org/10.5281/zenodo.22165465
+
+The version DOI for this release is `10.5281/zenodo.22165466`.
