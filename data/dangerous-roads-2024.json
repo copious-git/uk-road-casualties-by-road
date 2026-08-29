@@ -1,0 +1,978 @@
+{
+ "source": "DfT STATS19 road casualty open data, 2024 final",
+ "method": "Casualties on each numbered road (first road of collision), Great Britain, 2024. KSI = killed + seriously injured (unadjusted).",
+ "moto_totals": {
+  "killed": 340,
+  "serious": 5152,
+  "slight": 10468
+ },
+ "cycle_totals": {
+  "killed": 82,
+  "serious": 3576,
+  "slight": 10891
+ },
+ "motorcyclists_top_roads": [
+  {
+   "road": "A6",
+   "killed": 2,
+   "serious": 38,
+   "slight": 48,
+   "ksi": 40,
+   "total": 88
+  },
+  {
+   "road": "A40",
+   "killed": 5,
+   "serious": 31,
+   "slight": 51,
+   "ksi": 36,
+   "total": 87
+  },
+  {
+   "road": "A27",
+   "killed": 2,
+   "serious": 31,
+   "slight": 30,
+   "ksi": 33,
+   "total": 63
+  },
+  {
+   "road": "A259",
+   "killed": 1,
+   "serious": 30,
+   "slight": 58,
+   "ksi": 31,
+   "total": 89
+  },
+  {
+   "road": "A38",
+   "killed": 2,
+   "serious": 28,
+   "slight": 53,
+   "ksi": 30,
+   "total": 83
+  },
+  {
+   "road": "A13",
+   "killed": 1,
+   "serious": 27,
+   "slight": 84,
+   "ksi": 28,
+   "total": 112
+  },
+  {
+   "road": "A4",
+   "killed": 1,
+   "serious": 27,
+   "slight": 69,
+   "ksi": 28,
+   "total": 97
+  },
+  {
+   "road": "A406",
+   "killed": 0,
+   "serious": 27,
+   "slight": 60,
+   "ksi": 27,
+   "total": 87
+  },
+  {
+   "road": "A2",
+   "killed": 2,
+   "serious": 24,
+   "slight": 49,
+   "ksi": 26,
+   "total": 75
+  },
+  {
+   "road": "A23",
+   "killed": 0,
+   "serious": 25,
+   "slight": 104,
+   "ksi": 25,
+   "total": 129
+  },
+  {
+   "road": "A5",
+   "killed": 3,
+   "serious": 21,
+   "slight": 82,
+   "ksi": 24,
+   "total": 106
+  },
+  {
+   "road": "A10",
+   "killed": 1,
+   "serious": 22,
+   "slight": 56,
+   "ksi": 23,
+   "total": 79
+  },
+  {
+   "road": "A3",
+   "killed": 1,
+   "serious": 20,
+   "slight": 43,
+   "ksi": 21,
+   "total": 64
+  },
+  {
+   "road": "A1",
+   "killed": 2,
+   "serious": 19,
+   "slight": 42,
+   "ksi": 21,
+   "total": 63
+  },
+  {
+   "road": "A57",
+   "killed": 3,
+   "serious": 18,
+   "slight": 16,
+   "ksi": 21,
+   "total": 37
+  },
+  {
+   "road": "A24",
+   "killed": 0,
+   "serious": 20,
+   "slight": 58,
+   "ksi": 20,
+   "total": 78
+  },
+  {
+   "road": "A30",
+   "killed": 3,
+   "serious": 16,
+   "slight": 27,
+   "ksi": 19,
+   "total": 46
+  },
+  {
+   "road": "A82",
+   "killed": 1,
+   "serious": 17,
+   "slight": 5,
+   "ksi": 18,
+   "total": 23
+  },
+  {
+   "road": "A205",
+   "killed": 0,
+   "serious": 17,
+   "slight": 56,
+   "ksi": 17,
+   "total": 73
+  },
+  {
+   "road": "A41",
+   "killed": 0,
+   "serious": 17,
+   "slight": 48,
+   "ksi": 17,
+   "total": 65
+  },
+  {
+   "road": "A47",
+   "killed": 2,
+   "serious": 15,
+   "slight": 14,
+   "ksi": 17,
+   "total": 31
+  },
+  {
+   "road": "A20",
+   "killed": 0,
+   "serious": 16,
+   "slight": 19,
+   "ksi": 16,
+   "total": 35
+  },
+  {
+   "road": "M25",
+   "killed": 2,
+   "serious": 14,
+   "slight": 14,
+   "ksi": 16,
+   "total": 30
+  },
+  {
+   "road": "A61",
+   "killed": 2,
+   "serious": 13,
+   "slight": 18,
+   "ksi": 15,
+   "total": 33
+  },
+  {
+   "road": "A34",
+   "killed": 0,
+   "serious": 15,
+   "slight": 16,
+   "ksi": 15,
+   "total": 31
+  },
+  {
+   "road": "A12",
+   "killed": 0,
+   "serious": 13,
+   "slight": 37,
+   "ksi": 13,
+   "total": 50
+  },
+  {
+   "road": "A35",
+   "killed": 1,
+   "serious": 12,
+   "slight": 30,
+   "ksi": 13,
+   "total": 43
+  },
+  {
+   "road": "A11",
+   "killed": 0,
+   "serious": 12,
+   "slight": 49,
+   "ksi": 12,
+   "total": 61
+  },
+  {
+   "road": "A503",
+   "killed": 2,
+   "serious": 10,
+   "slight": 48,
+   "ksi": 12,
+   "total": 60
+  },
+  {
+   "road": "A46",
+   "killed": 2,
+   "serious": 10,
+   "slight": 28,
+   "ksi": 12,
+   "total": 40
+  },
+  {
+   "road": "A19",
+   "killed": 4,
+   "serious": 8,
+   "slight": 14,
+   "ksi": 12,
+   "total": 26
+  },
+  {
+   "road": "A44",
+   "killed": 2,
+   "serious": 10,
+   "slight": 5,
+   "ksi": 12,
+   "total": 17
+  },
+  {
+   "road": "A219",
+   "killed": 0,
+   "serious": 11,
+   "slight": 32,
+   "ksi": 11,
+   "total": 43
+  },
+  {
+   "road": "A217",
+   "killed": 1,
+   "serious": 10,
+   "slight": 23,
+   "ksi": 11,
+   "total": 34
+  },
+  {
+   "road": "A22",
+   "killed": 1,
+   "serious": 10,
+   "slight": 14,
+   "ksi": 11,
+   "total": 25
+  },
+  {
+   "road": "A470",
+   "killed": 2,
+   "serious": 9,
+   "slight": 13,
+   "ksi": 11,
+   "total": 24
+  },
+  {
+   "road": "A59",
+   "killed": 0,
+   "serious": 11,
+   "slight": 8,
+   "ksi": 11,
+   "total": 19
+  },
+  {
+   "road": "A442",
+   "killed": 2,
+   "serious": 9,
+   "slight": 3,
+   "ksi": 11,
+   "total": 14
+  },
+  {
+   "road": "A315",
+   "killed": 1,
+   "serious": 9,
+   "slight": 35,
+   "ksi": 10,
+   "total": 45
+  },
+  {
+   "road": "A202",
+   "killed": 0,
+   "serious": 10,
+   "slight": 26,
+   "ksi": 10,
+   "total": 36
+  },
+  {
+   "road": "A39",
+   "killed": 1,
+   "serious": 9,
+   "slight": 17,
+   "ksi": 10,
+   "total": 27
+  },
+  {
+   "road": "A361",
+   "killed": 2,
+   "serious": 8,
+   "slight": 17,
+   "ksi": 10,
+   "total": 27
+  },
+  {
+   "road": "A31",
+   "killed": 1,
+   "serious": 9,
+   "slight": 15,
+   "ksi": 10,
+   "total": 25
+  },
+  {
+   "road": "A18",
+   "killed": 1,
+   "serious": 9,
+   "slight": 8,
+   "ksi": 10,
+   "total": 18
+  },
+  {
+   "road": "A229",
+   "killed": 0,
+   "serious": 10,
+   "slight": 7,
+   "ksi": 10,
+   "total": 17
+  },
+  {
+   "road": "A48",
+   "killed": 0,
+   "serious": 10,
+   "slight": 6,
+   "ksi": 10,
+   "total": 16
+  },
+  {
+   "road": "A404",
+   "killed": 0,
+   "serious": 9,
+   "slight": 59,
+   "ksi": 9,
+   "total": 68
+  },
+  {
+   "road": "A272",
+   "killed": 0,
+   "serious": 9,
+   "slight": 11,
+   "ksi": 9,
+   "total": 20
+  },
+  {
+   "road": "A14",
+   "killed": 1,
+   "serious": 8,
+   "slight": 9,
+   "ksi": 9,
+   "total": 18
+  },
+  {
+   "road": "A16",
+   "killed": 1,
+   "serious": 8,
+   "slight": 9,
+   "ksi": 9,
+   "total": 18
+  },
+  {
+   "road": "A127",
+   "killed": 0,
+   "serious": 9,
+   "slight": 8,
+   "ksi": 9,
+   "total": 17
+  },
+  {
+   "road": "A487",
+   "killed": 0,
+   "serious": 9,
+   "slight": 7,
+   "ksi": 9,
+   "total": 16
+  },
+  {
+   "road": "A215",
+   "killed": 0,
+   "serious": 8,
+   "slight": 44,
+   "ksi": 8,
+   "total": 52
+  },
+  {
+   "road": "A235",
+   "killed": 0,
+   "serious": 8,
+   "slight": 37,
+   "ksi": 8,
+   "total": 45
+  },
+  {
+   "road": "A21",
+   "killed": 2,
+   "serious": 6,
+   "slight": 31,
+   "ksi": 8,
+   "total": 39
+  },
+  {
+   "road": "A52",
+   "killed": 1,
+   "serious": 7,
+   "slight": 17,
+   "ksi": 8,
+   "total": 25
+  },
+  {
+   "road": "A49",
+   "killed": 0,
+   "serious": 8,
+   "slight": 7,
+   "ksi": 8,
+   "total": 15
+  },
+  {
+   "road": "A45",
+   "killed": 2,
+   "serious": 6,
+   "slight": 7,
+   "ksi": 8,
+   "total": 15
+  },
+  {
+   "road": "A29",
+   "killed": 0,
+   "serious": 8,
+   "slight": 7,
+   "ksi": 8,
+   "total": 15
+  },
+  {
+   "road": "A64",
+   "killed": 0,
+   "serious": 8,
+   "slight": 7,
+   "ksi": 8,
+   "total": 15
+  }
+ ],
+ "cyclists_top_roads": [
+  {
+   "road": "A4",
+   "killed": 1,
+   "serious": 29,
+   "slight": 79,
+   "ksi": 30,
+   "total": 109
+  },
+  {
+   "road": "A315",
+   "killed": 1,
+   "serious": 22,
+   "slight": 67,
+   "ksi": 23,
+   "total": 90
+  },
+  {
+   "road": "A3",
+   "killed": 1,
+   "serious": 19,
+   "slight": 76,
+   "ksi": 20,
+   "total": 96
+  },
+  {
+   "road": "A202",
+   "killed": 0,
+   "serious": 20,
+   "slight": 52,
+   "ksi": 20,
+   "total": 72
+  },
+  {
+   "road": "A6",
+   "killed": 3,
+   "serious": 17,
+   "slight": 30,
+   "ksi": 20,
+   "total": 50
+  },
+  {
+   "road": "A23",
+   "killed": 1,
+   "serious": 16,
+   "slight": 78,
+   "ksi": 17,
+   "total": 95
+  },
+  {
+   "road": "A259",
+   "killed": 0,
+   "serious": 17,
+   "slight": 37,
+   "ksi": 17,
+   "total": 54
+  },
+  {
+   "road": "A10",
+   "killed": 0,
+   "serious": 16,
+   "slight": 78,
+   "ksi": 16,
+   "total": 94
+  },
+  {
+   "road": "A200",
+   "killed": 0,
+   "serious": 16,
+   "slight": 49,
+   "ksi": 16,
+   "total": 65
+  },
+  {
+   "road": "A308",
+   "killed": 0,
+   "serious": 16,
+   "slight": 46,
+   "ksi": 16,
+   "total": 62
+  },
+  {
+   "road": "A205",
+   "killed": 0,
+   "serious": 16,
+   "slight": 45,
+   "ksi": 16,
+   "total": 61
+  },
+  {
+   "road": "A2",
+   "killed": 0,
+   "serious": 16,
+   "slight": 44,
+   "ksi": 16,
+   "total": 60
+  },
+  {
+   "road": "A219",
+   "killed": 0,
+   "serious": 14,
+   "slight": 46,
+   "ksi": 14,
+   "total": 60
+  },
+  {
+   "road": "A24",
+   "killed": 0,
+   "serious": 13,
+   "slight": 68,
+   "ksi": 13,
+   "total": 81
+  },
+  {
+   "road": "A40",
+   "killed": 0,
+   "serious": 13,
+   "slight": 34,
+   "ksi": 13,
+   "total": 47
+  },
+  {
+   "road": "A1",
+   "killed": 0,
+   "serious": 12,
+   "slight": 46,
+   "ksi": 12,
+   "total": 58
+  },
+  {
+   "road": "A501",
+   "killed": 0,
+   "serious": 12,
+   "slight": 31,
+   "ksi": 12,
+   "total": 43
+  },
+  {
+   "road": "A3036",
+   "killed": 0,
+   "serious": 11,
+   "slight": 29,
+   "ksi": 11,
+   "total": 40
+  },
+  {
+   "road": "A201",
+   "killed": 1,
+   "serious": 10,
+   "slight": 28,
+   "ksi": 11,
+   "total": 39
+  },
+  {
+   "road": "A11",
+   "killed": 0,
+   "serious": 10,
+   "slight": 75,
+   "ksi": 10,
+   "total": 85
+  },
+  {
+   "road": "A4020",
+   "killed": 0,
+   "serious": 10,
+   "slight": 45,
+   "ksi": 10,
+   "total": 55
+  },
+  {
+   "road": "A5",
+   "killed": 0,
+   "serious": 10,
+   "slight": 40,
+   "ksi": 10,
+   "total": 50
+  },
+  {
+   "road": "A503",
+   "killed": 0,
+   "serious": 10,
+   "slight": 35,
+   "ksi": 10,
+   "total": 45
+  },
+  {
+   "road": "A107",
+   "killed": 0,
+   "serious": 10,
+   "slight": 32,
+   "ksi": 10,
+   "total": 42
+  },
+  {
+   "road": "A61",
+   "killed": 0,
+   "serious": 10,
+   "slight": 18,
+   "ksi": 10,
+   "total": 28
+  },
+  {
+   "road": "A104",
+   "killed": 0,
+   "serious": 9,
+   "slight": 54,
+   "ksi": 9,
+   "total": 63
+  },
+  {
+   "road": "A215",
+   "killed": 0,
+   "serious": 9,
+   "slight": 32,
+   "ksi": 9,
+   "total": 41
+  },
+  {
+   "road": "A404",
+   "killed": 0,
+   "serious": 9,
+   "slight": 32,
+   "ksi": 9,
+   "total": 41
+  },
+  {
+   "road": "A3212",
+   "killed": 0,
+   "serious": 9,
+   "slight": 19,
+   "ksi": 9,
+   "total": 28
+  },
+  {
+   "road": "A3220",
+   "killed": 0,
+   "serious": 9,
+   "slight": 16,
+   "ksi": 9,
+   "total": 25
+  },
+  {
+   "road": "A105",
+   "killed": 0,
+   "serious": 8,
+   "slight": 44,
+   "ksi": 8,
+   "total": 52
+  },
+  {
+   "road": "A41",
+   "killed": 0,
+   "serious": 8,
+   "slight": 39,
+   "ksi": 8,
+   "total": 47
+  },
+  {
+   "road": "A38",
+   "killed": 0,
+   "serious": 7,
+   "slight": 67,
+   "ksi": 7,
+   "total": 74
+  },
+  {
+   "road": "A420",
+   "killed": 0,
+   "serious": 7,
+   "slight": 40,
+   "ksi": 7,
+   "total": 47
+  },
+  {
+   "road": "A21",
+   "killed": 1,
+   "serious": 6,
+   "slight": 26,
+   "ksi": 7,
+   "total": 33
+  },
+  {
+   "road": "A57",
+   "killed": 0,
+   "serious": 7,
+   "slight": 24,
+   "ksi": 7,
+   "total": 31
+  },
+  {
+   "road": "A118",
+   "killed": 0,
+   "serious": 7,
+   "slight": 21,
+   "ksi": 7,
+   "total": 28
+  },
+  {
+   "road": "A214",
+   "killed": 1,
+   "serious": 6,
+   "slight": 21,
+   "ksi": 7,
+   "total": 28
+  },
+  {
+   "road": "A1134",
+   "killed": 0,
+   "serious": 7,
+   "slight": 19,
+   "ksi": 7,
+   "total": 26
+  },
+  {
+   "road": "A12",
+   "killed": 0,
+   "serious": 7,
+   "slight": 6,
+   "ksi": 7,
+   "total": 13
+  },
+  {
+   "road": "A217",
+   "killed": 0,
+   "serious": 6,
+   "slight": 36,
+   "ksi": 6,
+   "total": 42
+  },
+  {
+   "road": "A1010",
+   "killed": 0,
+   "serious": 6,
+   "slight": 25,
+   "ksi": 6,
+   "total": 31
+  },
+  {
+   "road": "A34",
+   "killed": 0,
+   "serious": 6,
+   "slight": 24,
+   "ksi": 6,
+   "total": 30
+  },
+  {
+   "road": "A3211",
+   "killed": 0,
+   "serious": 6,
+   "slight": 15,
+   "ksi": 6,
+   "total": 21
+  },
+  {
+   "road": "A52",
+   "killed": 0,
+   "serious": 6,
+   "slight": 12,
+   "ksi": 6,
+   "total": 18
+  },
+  {
+   "road": "A58",
+   "killed": 1,
+   "serious": 5,
+   "slight": 11,
+   "ksi": 6,
+   "total": 17
+  },
+  {
+   "road": "A1206",
+   "killed": 1,
+   "serious": 5,
+   "slight": 9,
+   "ksi": 6,
+   "total": 15
+  },
+  {
+   "road": "A8",
+   "killed": 0,
+   "serious": 6,
+   "slight": 6,
+   "ksi": 6,
+   "total": 12
+  },
+  {
+   "road": "A400",
+   "killed": 0,
+   "serious": 5,
+   "slight": 43,
+   "ksi": 5,
+   "total": 48
+  },
+  {
+   "road": "A3205",
+   "killed": 0,
+   "serious": 5,
+   "slight": 22,
+   "ksi": 5,
+   "total": 27
+  },
+  {
+   "road": "A27",
+   "killed": 0,
+   "serious": 5,
+   "slight": 17,
+   "ksi": 5,
+   "total": 22
+  },
+  {
+   "road": "A4018",
+   "killed": 0,
+   "serious": 5,
+   "slight": 17,
+   "ksi": 5,
+   "total": 22
+  },
+  {
+   "road": "A65",
+   "killed": 1,
+   "serious": 4,
+   "slight": 9,
+   "ksi": 5,
+   "total": 14
+  },
+  {
+   "road": "A232",
+   "killed": 0,
+   "serious": 5,
+   "slight": 9,
+   "ksi": 5,
+   "total": 14
+  },
+  {
+   "road": "B3068",
+   "killed": 0,
+   "serious": 5,
+   "slight": 7,
+   "ksi": 5,
+   "total": 12
+  },
+  {
+   "road": "A3200",
+   "killed": 0,
+   "serious": 5,
+   "slight": 6,
+   "ksi": 5,
+   "total": 11
+  },
+  {
+   "road": "A607",
+   "killed": 0,
+   "serious": 5,
+   "slight": 6,
+   "ksi": 5,
+   "total": 11
+  },
+  {
+   "road": "A49",
+   "killed": 0,
+   "serious": 5,
+   "slight": 5,
+   "ksi": 5,
+   "total": 10
+  },
+  {
+   "road": "B4114",
+   "killed": 0,
+   "serious": 5,
+   "slight": 5,
+   "ksi": 5,
+   "total": 10
+  },
+  {
+   "road": "A77",
+   "killed": 0,
+   "serious": 5,
+   "slight": 5,
+   "ksi": 5,
+   "total": 10
+  }
+ ]
+}
