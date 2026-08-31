@@ -52,9 +52,9 @@ This derived dataset is released under the same terms.
 ## Source
 
 - DfT road accident and casualty statistics: https://www.gov.uk/government/collections/road-accidents-and-safety-statistics
-- Interactive tables and per-force-area breakdown: https://bikers.co.uk/data/dangerous-roads
-- All 44 police force areas: https://bikers.co.uk/data/dangerous-roads/regions
-- Cyclist-specific analysis: https://bikers.co.uk/data/dangerous-roads/cyclists
+- Interactive tables and per-force-area breakdown: [Britain's most dangerous roads for riders](https://bikers.co.uk/data/dangerous-roads)
+- All 44 police force areas: [motorcyclist casualties by police force area](https://bikers.co.uk/data/dangerous-roads/regions)
+- Cyclist-specific analysis: [cyclist casualties on Britain's numbered roads](https://bikers.co.uk/data/dangerous-roads/cyclists)
 
 ## Citing this dataset
 
